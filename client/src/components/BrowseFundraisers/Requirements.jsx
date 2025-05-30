@@ -1,6 +1,12 @@
 import React from "react";
 import { RiMoneyRupeeCircleLine } from "react-icons/ri";
 import { useNavigate } from "react-router-dom";
+import img1 from '../../assets/Requirements/1.jpg';
+import img2 from '../../assets/Requirements/2.jpg';
+import img3 from '../../assets/Requirements/3.jpg';
+import img4 from '../../assets/Requirements/4.jpg';
+import img5 from '../../assets/Requirements/5.jpg';
+import img6 from '../../assets/Requirements/6.jpg';
 
 function Requirements() {
   const navigate = useNavigate();

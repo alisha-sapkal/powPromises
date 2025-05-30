@@ -1,10 +1,10 @@
 import React, { useState } from "react";
-import surgery from "../../assets/petsurgery.png";
-import vaterinaryBills from "../../assets/vat.png";
-import shelter from "../../assets/animalshelter.png";
-import rescue from "../../assets/animalrescue.png";
-import kennels from "../../assets/4.png";
-import other from "../../assets/paw.png";
+import surgery from "../../assets/Home/petsurgery.png";
+import vaterinaryBills from "../../assets/Home/vat.png";
+import shelter from "../../assets/Home/animalshelter.png";
+import rescue from "../../assets/Home/animalrescue.png";
+import kennels from "../../assets/Home/4.png";
+import other from "../../assets/Home/paw.png";
 
 function CauseForFund() {
   const causes = [

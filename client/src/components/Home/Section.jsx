@@ -1,7 +1,7 @@
 import React from "react";
-import vatDog from "../../assets/vaterinary.png";
+import vatDog from "../../assets/Home/vaterinary.png";
 import logo from "../../assets/logo.png";
-import dogPet from "../../assets/imge3.png";
+import dogPet from "../../assets/Home/imge3.png";
 
 function Section() {
   return (
