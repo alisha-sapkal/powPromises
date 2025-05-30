@@ -1,0 +1,385 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Welcome to PAWS - Pet Animal Welfare Society, New Delhi, India</title>
+    <link href='https://fonts.googleapis.com/css?family=Karla:400,400italic,700italic,700' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Lora:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/bootstrap-theme.min.css">
+    <link rel="stylesheet" href="css/font-awesome.min.css">
+    <link rel="stylesheet" href="vendors/owl.carousel/owl.carousel.css">
+    <link rel="stylesheet" href="vendors/magnific-popup/magnific-popup.css">
+    <link rel="stylesheet" href="vendors/bootstrap-select/css/bootstrap-select.min.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/theme.css">
+    <!--[if lt IE 9]>
+        
+        <script src="js/html5shiv.min.js"></script>
+        <script src="js/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body>  
+    <nav class="navbar navbar-default navbar-static-top navbar2">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#mainNav" aria-expanded="false">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            </div>            
+            <div class="collapse navbar-collapse" id="mainNav">                
+                <ul class="nav navbar-nav">
+                    <li class="dropdown active">
+                        <a href="https://www.pawsindia.org">Home</a></li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">About</a>
+                        <ul class="dropdown-menu">
+			<li><a href="about-us.html">About PAWS</a></li>
+                            <li><a href="the-president-speaks.html">The President speaks</a></li>
+                            <li><a href="how-animals-come-to-us.html">How animals come to us</a></li>
+                            <li><a href="paws-policy.html">PAWS Policy</a></li>                            
+                        </ul>
+                    </li> 
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Support us</a>
+                        <ul class="dropdown-menu">
+			<li><a href="support-us.html">Become a Corporate supporter</a></li>
+                            <li><a href="support-us.html">Donate to PAWS Shelter</a></li>
+                            <li><a href="support-us.html">Become a volunteer</a></li>
+                            <li><a href="support-us.html">Become a Foster Carer</a></li>
+<li><a href="#footstep">Donations under FCRA</a></li>                            
+                        </ul>
+                    </li>                   
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Activities</a>
+                        <ul class="dropdown-menu">
+                            <li><a href="activities.html">PAWS Activities</a></li>
+                            <li><a href="ongoing-initiatives.html">Initiatives</a></li>
+                            <li><a href="abc.html">ABC Program</a></li>
+                            <li><a href="sos.html">Save our Homeless Animals</a></li>
+                            <li><a href="treatments-and-amenities.html">Treatments</a></li>
+                            <li><a href="low-cost-opd.html">Low Cost OPD</a></li>
+                            <li><a href="indoor-patients.html">IPD</a></li>
+                            <li><a href="volunteer.html">Volunteer</a></li>
+                            
+                        </ul>
+                    </li>
+  <li><a href="ambulance-and-emergency-dial.html">Emergency</a></li>                 
+<li><a href="https://www.pawsindia.org/donate">Donate</a></li>
+                    <li><a href="contact-us.html">Contact</a></li>
+                </ul>
+                <ul class="nav social_navbar navbar-right">
+                    <li><a href="https://www.facebook.com/PAWS.Delhi" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                       <li class="dropdown">
+                        
+                        <ul class="dropdown-menu">
+                           
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    
+    <header class="row header1">
+        <div class="container">
+            <div class="logo pull-left">
+                <a href="https://www.pawsindia.org"><img src="images/paws.gif" alt=""></a>
+            </div>
+            
+            <a href="https://www.pawsindia.org/donate" class="btn-primary btn-outline hidden-sm hidden-xs pull-right">donate now</a>
+            
+            <div class="pull-right emergency-contact">
+                <div class="pull-left">
+                    <span><i class="fa fa-envelope-o"></i></span>
+                    <div class="infos_col">
+                        <h6>email us at</h6>
+                        <a href="mailto:paws@pawsindia.org"><h5>paws@pawsindia.org</h5></a>
+                    </div>
+                </div>
+                <div class="pull-left">
+                    <span class="rotate"><i class="fa fa-phone"></i></span>
+                    <div class="infos_col">
+                        <h6>call us now</h6>
+                        <h4>9810036255</h4>
+                    </div>
+                </div>
+            </div>
+        </div>        
+    </header>   
+    <section class="row featured_events">
+        <div class="item">
+            <img src="images/featured-slider.jpg" alt="">
+            <div class="row caption m0">
+               	<div class="caption_row">
+					<div class="container">
+						<div class="event_box featured_event_box row m0">
+							<div class="event_meta row m0">                            
+								<div class="label label-default pull-left">priority</div>
+								<div class="pull-right days_left">Homeless Animals</div>
+							</div>
+							<h4 class="event_link"><a href="single-event.html">SUPPORT the CAUSE..!</a></h4>
+							<p>The PAWS team feeds, treats and sterilizes homeless animals before releasing them in their territories, but all this needs funds, emotions apart!</p>
+							
+							<div class="row m0 text-center">
+								<a href="https://www.pawsindia.org/donate" class="btn-primary">donate now</a>
+							</div>
+						</div>
+					</div>
+				</div>
+            </div>
+        </div>
+        <div class="item">
+            <img src="images/featured-slider1.jpg" alt="">
+            <div class="row caption m0">
+               	<div class="caption_row">
+					<div class="container">
+						<div class="event_box featured_event_box row m0">
+							<div class="event_meta row m0">                            
+								<div class="label label-default pull-left">priority</div>
+								<div class="pull-right days_left">Homeless Animals</div>
+							</div>
+							<h4 class="event_link"><a href="single-event.html">SUPPORT the CAUSE..!</a></h4>
+							<p>The PAWS team feeds, treats and sterilizes homeless animals before releasing them in their territories, but all this needs funds, emotions apart!</p>
+							
+							<div class="row m0 text-center">
+								<a href="https://www.pawsindia.org/donate" class="btn-primary">donate now</a>
+							</div>
+						</div>
+					</div>
+				</div>
+            </div>
+        </div>
+        <div class="item">
+            <img src="images/featured-slider2.jpg" alt="">
+            <div class="row caption m0">
+               	<div class="caption_row">
+					<div class="container">
+						<div class="event_box featured_event_box row m0">
+							<div class="event_meta row m0">                            
+								<div class="label label-default pull-left">priority</div>
+								<div class="pull-right days_left">Homeless Animals</div>
+							</div>
+							<h4 class="event_link"><a href="single-event.html">SUPPORT the CAUSE..!</a></h4>
+							<p>The PAWS team feed, treat, foster and sterilize homeless dogs and Cats before releasing them in their respective territories. All this needs funds, emotions apart.</p>
+							
+							<div class="row m0 text-center">
+								<a href="https://www.pawsindia.org/donate" class="btn-primary">donate now</a>
+							</div>
+						</div>
+					</div>
+				</div>
+            </div>
+        </div>
+    </section>
+    
+    <section class="how_help row sectionGap">
+        <div class="container">
+            <div class="row sectionTitle text-center">
+                <h6 class="label label-default">how together we can make a difference</h6>
+                <h3>PAWS HAS HELPED AND SAVED LIVES OF THOUSANDS OF HOMELESS ANIMALS AND NOW WE NEED YOUR HELP TO CONTINUE THIS. </h3>
+            </div>
+            <div class="row help-process_row">
+                <div class="col-sm-4 help-process">
+                    <div class="icon_box row m0">
+                        <img src="images/pawprint.gif" alt="">
+                    </div>
+                    <h5>ADOPT A PET</h5>
+                    <p>There are so many takers for pedigree dogs. But our Desi Indian breed look upto you..  Make a difference!</p>
+                </div>
+                <div class="col-sm-4 help-process">
+                    <div class="icon_box row m0">
+                        <img src="images/help02.png" alt="">
+                    </div>
+                    <h5>BECOME VOLUNTEER</h5>
+                    <p>As a volunteer at our shelter, you may offer a variety of support like providing foster care for puppies till adopted!</p>
+                </div>
+                <div class="col-sm-4 help-process">
+                    <div class="icon_box row m0">
+                        <img src="images/help01.png" alt="">
+                    </div>
+                    <h5>GIVE DONATION</h5>
+                    <p>All donations are exempted from Income Tax under 80G. We also accept Foreign funds under FCRA act 1976. </p>
+                </div>
+            </div>
+            <div class="row m0 buttons">
+                <a href="contact-us.html" class="btn-primary">Contact for Adoption</a>
+                <a href="volunteer.html" class="btn-primary btn-outline">Join us as VOLUNTEER</a>
+            </div>
+        </div>
+    </section>
+    
+    <section class="row quotes_row">
+        <div class="container">
+            <div class="row sectionTitle text-center">
+                <h6 class="label label-default">PAWS ACTIVITIES</h6>
+                <h3>PAST &amp; RECENT MOST EVENTS AT PAWS</h3>
+            </div>
+            <div class="row">
+                <div class="col-sm-4 quotation_block text-center">
+                    <div class="quote_block row" style="background-color:#000">
+                        
+                        <p><iframe width="100%" src="https://www.youtube.com/embed/qcBKlTFMSt8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+                    </div>
+                    <h5>Unleashed Story of Streets</h5>
+                    <h6>PAWS Day with a Homeless Animal</h6>
+                </div>
+                <div class="col-sm-4 quotation_block text-center">
+                    <div class="quote_block row" style="background-color:#000">
+                        
+                        <p><iframe width="100%" src="https://www.youtube.com/embed/qB_AH_OGaIc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+                    </div>
+                    <h5>Pet Animal Welfare Society</h5>
+                    <h6>PAWS India</h6>
+                </div>
+                <div class="col-sm-4 quotation_block text-center">
+                    <div class="quote_block row" style="background-color:#000">
+                        
+                        <p><iframe width="100%" src="https://www.youtube.com/embed/Hp65TVEjk0s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+                    </div>
+                    <h5>Pup Adoption Camp</h5>
+                    <h6>PAWS for A Cause Adoption Camp</h6>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="row beVolunteer text-center">
+        <div class="container beVolunteerBox">
+            <div class="row sectionTitle text-center">
+                <h6 class="label label-default">at PAWS shelter for pets</h6>
+                <h3>become a volunteer</h3>
+            </div>
+            <p>Certificates will be provided on the basis of hours contributed for the cause.</p>
+            <a href="volunteer.html" class="btn-primary">join us now</a>
+        </div>
+    </section>
+    <section class="row latest_news">
+        <div class="container">
+            <div class="row sectionTitle text-center">
+                <h6 class="label label-default">LATEST UPDATE FROM PAWS</h6>
+                <h3>EACH HOMELESS ANIMAL HAS A STORY TO TELL....</h3>
+            </div>
+            <div class="row">
+                <div class="latest-post col-md-3 col-sm-6">                    
+                    <div class="row m0 featured_cont">
+                        <img src="images/posts/1.jpg" alt="" class="img-responsive">                        
+                    </div>
+                    <h5 class="post-title"><a href="#">SNOWY RADHA GOT HER HOME AND THE BEST LOVING PARENTS</a></h5>
+                   <!--<a href="#" class="btn-primary btn-outline">read more</a>-->
+                </div>
+                <div class="latest-post col-md-3 col-sm-6">                    
+                    <div class="row m0 featured_cont">
+                        <img src="images/posts/2.jpg" alt="" class="img-responsive">
+                    </div>
+                    <h5 class="post-title"><a href="#">TIGER & BRUNO HAVE SAID BYE TO THEIR DISABILITIES</a></h5>
+                                        <!--<a href="#" class="btn-primary btn-outline">read more</a>-->
+                </div>
+                <div class="latest-post col-md-3 col-sm-6">                    
+                    <div class="row m0 featured_cont">
+                        <img src="images/posts/3.jpg" alt="" class="img-responsive">
+                    </div>
+                    <h5 class="post-title"><a href="#">PAWS HAD FOUND HIM SEVERELY STARVED FOR DAYS</a></h5>
+                                        <!--<a href="#" class="btn-primary btn-outline">read more</a>-->
+                </div>
+                <div class="latest-post col-md-3 col-sm-6">                    
+                    <div class="row m0 featured_cont">
+                        <img src="images/posts/4.jpg" alt="" class="img-responsive">
+                    </div>
+                    <h5 class="post-title"><a href="#">ALOO & KALU WERE RESCUED ON THAT RAINY DAY...!!</a></h5>
+                                        <!--<a href="#" class="btn-primary btn-outline">read more</a>-->
+                </div>
+            </div>
+        </div>
+    </section>    
+    <section class="row sponsor_banner text-center">
+        <div class="container">
+            <div class="row sectionTitle">
+                <h6 class="label label-default">sponsor PAWS long-term project</h6>
+                <h3>HELP THOUSANDS OF HOMELESS AND SICK OR INJURED HOMELESS ANIMALS TO HEAL AND FIND HAPPY HOMES</h3>
+            </div>
+            <p>The sight of diseased animals and accidental cases is heart rending for those who love animals. It also takes a lot of strength and determination to nurse them back to health and that is precisely what is all about the PAWS long-term project. Get involved - pawsitively!!!</p>
+            <div class="row">
+                <a href="https://www.pawsindia.org/donate" class="btn-primary white">sponsor now</a>
+                <a href="support-us.html" class="btn-primary btn-outline white">support us</a>
+            </div>
+        </div>
+    </section>    
+    <section class="row newsletter_signup style3">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-4">
+                    <h4>SHARE YOUR FEELINGS N SUPPORT</h4>
+                    <p>Your messages will keep PAWS energized</p>
+                </div>
+                <form class="col-sm-8 form-inline newsletter_signup_form">
+                    <input type="text" class="form-control" placeholder="Name and your message">
+                    <input type="tel" class="form-control" placeholder="Mobile No.">
+                    <input type="submit" value="submit" class="btn-primary white">
+                </form>
+            </div>
+        </div>
+    </section>    
+    <div id="footstep"></div>
+<footer class="row footer">
+        <div class="container">
+            <div class="row footer_sidebar">
+                <div class="widget widget-about col-sm-6 col-md-3">
+                    <h6 class="label label-default widget-title">PAWS Vision</h6>
+                    <p>To become India's most blessed organization for pet welfare and complete and dedicated care center for animals in distress.</p>
+                </div>
+                <div class="widget widget-recent-posts col-sm-6 col-md-3">
+                    <h6 class="label label-default widget-title">Associations</h6><br>
+			<img src="images/rspca.gif" alt=""><br><br>
+                    <p>An Association with RSPCA International<br>Recognized by Animal Welfare Board of India,<br>Animal Husbandry Department,<br>Municipal Corporation of Delhi</p>
+                </div>
+                <div class="widget widget-recent-tweets col-sm-6 col-md-3">
+                    <h6 class="label label-default widget-title">Act Now</h6>
+                    <div class="tweet m0">
+                        <p>Adopt <br>Volunteer<br>Donate
+                        </p>
+                    </div>
+                    <br><b>FCRA Account Details:</b><br><br>A/c Name: PET ANIMAL WELFARE SOCIETY<br>A/c No.: 40095118356<br>IFS Code: SBIN0000691
+                </div>
+                <div class="widget widget-contact col-sm-6 col-md-3">
+                    <h6 class="label label-default widget-title">CONTACT</h6>
+                    <address>
+                        C-9/7, Masudpur Market, Vasant Kunj, New Delhi-110070
+                        <br><br>
+                        <span>Phone</span> : 011-26895737, 011-26136435, 9810036254, 9810036255, 7827766875, 1800-11-5737<br>
+                        <span>Email</span> : <a href="mailto:paws@pawsindia.org">paws@pawsindia.org</a>
+                    </address>
+                </div>
+            </div>
+        </div>        
+        <div class="row copyright_area m0">
+            <div class="container">
+                <div class="copy_inner row">
+                    <div class="col-sm-7 copyright_text">Powered by BRAINyard</div>
+                    <div class="col-sm-5 footer-nav">
+                    	<ul class="nav">
+							<li><a href="terms.html">Terms of Use</a></li>
+							<li><a href="terms.html">Privacy Policy</a></li>
+							
+						</ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+        
+    <script src="js/jquery-2.1.4.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>    
+    <script src="vendors/bootstrap-select/js/bootstrap-select.min.js"></script>    
+    <script src="vendors/magnific-popup/jquery.magnific-popup.min.js"></script>   
+    <script src="vendors/owl.carousel/owl.carousel.min.js"></script>    
+    <script src="vendors/couterup/jquery.counterup.min.js"></script>   
+    <script src="vendors/waypoint/waypoints.min.js"></script>    
+    <script src="js/theme.js"></script></body>
+</html>
